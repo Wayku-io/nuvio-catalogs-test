@@ -20,6 +20,11 @@
       "type": "movie",
       "id": "custom.hp",
       "name": "hp"
+    },
+    {
+      "type": "movie",
+      "id": "custom.super",
+      "name": "super"
     }
   ]
 }
