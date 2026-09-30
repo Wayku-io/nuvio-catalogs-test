@@ -1,0 +1,25 @@
+{
+  "id": "org.custom.all_catalogs",
+  "version": "1.0.0",
+  "name": "Tous mes catalogues (EasyCatalog)",
+  "description": "Pack complet regroupant l'ensemble de vos catalogues personnalisés EasyCatalog",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "custom.flash",
+      "name": "Flash"
+    },
+    {
+      "type": "movie",
+      "id": "custom.hp",
+      "name": "hp"
+    }
+  ]
+}
