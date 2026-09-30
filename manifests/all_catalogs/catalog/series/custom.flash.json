@@ -1,0 +1,25 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:60735",
+      "type": "series",
+      "name": "Flash",
+      "poster": "https://image.tmdb.org/t/p/w342/Hrta0iq8KEQbdOpSnki2gUMowk.jpg",
+      "year": "2014"
+    },
+    {
+      "id": "tmdb:5829",
+      "type": "series",
+      "name": "Flashpoint",
+      "poster": "https://image.tmdb.org/t/p/w342/57iCiaK6kA9PpENFiyJ6V4X9JVT.jpg",
+      "year": "2008"
+    },
+    {
+      "id": "tmdb:19092",
+      "type": "series",
+      "name": "FlashForward",
+      "poster": "https://image.tmdb.org/t/p/w342/7iu2HJ8ZSNbBgFLi42JNcuPjBax.jpg",
+      "year": "2009"
+    }
+  ]
+}
