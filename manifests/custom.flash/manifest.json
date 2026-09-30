@@ -1,0 +1,19 @@
+{
+  "id": "org.custom.catalog.custom.flash",
+  "version": "1.0.0",
+  "name": "Flash",
+  "description": "Custom catalog generated via EasyCatalog",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "custom.flash",
+      "name": "Flash"
+    }
+  ]
+}
