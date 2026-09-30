@@ -1,0 +1,18 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:1226863",
+      "type": "movie",
+      "name": "Super Mario Galaxy, le film",
+      "poster": "https://image.tmdb.org/t/p/w342/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
+      "year": "2026"
+    },
+    {
+      "id": "tmdb:675871",
+      "type": "movie",
+      "name": "Super Troopers 3",
+      "poster": "https://image.tmdb.org/t/p/w342/ecTxAyfx4fdTMy2N288oZMMn3Ey.jpg",
+      "year": "2026"
+    }
+  ]
+}
