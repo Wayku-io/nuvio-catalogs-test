@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tmdb:123",
+      "type": "movie",
+      "name": "Le Seigneur des anneaux",
+      "poster": "https://image.tmdb.org/t/p/w342/lH5at1RvvglQmnoBkytTTPZfw94.jpg",
+      "year": "1978"
+    },
+    {
       "id": "tmdb:120",
       "type": "movie",
       "name": "Le Seigneur des anneaux : La Communauté de l'anneau",
@@ -20,6 +27,13 @@
       "name": "Le Seigneur des anneaux : Le Retour du roi",
       "poster": "https://image.tmdb.org/t/p/w342/ypUCFOvOf07bcHy81jng9LyMUfi.jpg",
       "year": "2003"
+    },
+    {
+      "id": "tmdb:839033",
+      "type": "movie",
+      "name": "Le Seigneur des anneaux : La Guerre des Rohirrim",
+      "poster": "https://image.tmdb.org/t/p/w342/bcDGIZKQ959tnMn0qLl6GxOkbO3.jpg",
+      "year": "2024"
     }
   ]
 }
