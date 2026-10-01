@@ -1,0 +1,19 @@
+{
+  "id": "org.custom.catalog.custom.lsdaaaa",
+  "version": "1.0.0",
+  "name": "LSDAAAA",
+  "description": "Custom catalog generated via EasyCatalog",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "custom.lsdaaaa",
+      "name": "LSDAAAA"
+    }
+  ]
+}
