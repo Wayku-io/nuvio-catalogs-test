@@ -23,6 +23,11 @@
     },
     {
       "type": "movie",
+      "id": "custom.lsdaaaa",
+      "name": "LSDAAAA"
+    },
+    {
+      "type": "movie",
       "id": "custom.super",
       "name": "super"
     }
